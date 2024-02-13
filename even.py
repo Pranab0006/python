@@ -1,4 +1,4 @@
-#Write a program to print all odd nos. between 1 to 100.
+#Write a program to print all even nos. between 1 to 100.
 
 
 n=2
