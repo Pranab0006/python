@@ -1,4 +1,4 @@
-#Write a program to print all odd nos. between 1 to 100.
+#Write a program to print all natural nos. between 1 to 100.
 #n=10
 #10,9,8,7,6,5,4.3,2,1
 
